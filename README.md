@@ -81,17 +81,6 @@ To maintain or enhance the project, focus on the following:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙋 Contact
-
-For questions or contributions, please reach out at your.email@example.com.
-
----
 
 Thank you for exploring the Netflix Originals IMDb Ratings Analysis project!  
 Feel free to fork, contribute, and improve the analysis.
