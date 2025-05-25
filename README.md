@@ -82,5 +82,40 @@ To maintain or enhance the project, focus on the following:
 ---
 
 
+# requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+
+# Recommended Project Folder Structure
+
+netflix-imdb-analysis/
+│
+├── data/
+│   └── netflix_imdb_data.csv       # Raw or processed dataset
+│
+├── notebooks/
+│   └── Netflix_Originals_IMDb_Analysis.ipynb   # Jupyter notebook with analysis
+│
+├── scripts/
+│   └── data_cleaning.py            # Data cleaning and preprocessing code
+│   └── feature_engineering.py      # Feature selection/engineering code
+│   └── visualization.py            # Plotting and visualization functions
+│   └── analysis.py                 # Core analysis logic and summary generation
+│
+├── reports/
+│   └── figures/                    # Saved plots and figures (png, svg, etc.)
+│   └── summary_report.md           # Optional markdown summary or PDF reports
+│
+├── requirements.txt                # Python dependencies
+├── README.md                      # Project description and rubric explanation
+└── main_analysis.py               # Main script to run full pipeline
+
+
+
 Thank you for exploring the Netflix Originals IMDb Ratings Analysis project!  
 Feel free to fork, contribute, and improve the analysis.
