@@ -1,7 +1,7 @@
 # Netflix Originals Using IMDb Ratings Analysis
 
 Welcome to the **Netflix Originals Using IMDb Ratings Analysis** project!  
-This project explores and visualizes IMDb ratings of Netflix original shows and movies, providing insightful analysis about trends, outliers, and data quality
+This project explores and visualizes IMDb ratings of Netflix original shows and movies, providing insightful analysis about trends, outliers, and data quality.
 
 ---
 
